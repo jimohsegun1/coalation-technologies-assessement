@@ -1,4 +1,3 @@
-// src/components/Patients.js
 import React from "react";
 import { useDispatch } from "react-redux";
 import { setSelectedPatient } from "../store/patientsSlice";

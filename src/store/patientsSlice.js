@@ -1,4 +1,3 @@
-// src/store/patientsSlice.js
 import { createSlice } from "@reduxjs/toolkit";
 
 const patientsSlice = createSlice({

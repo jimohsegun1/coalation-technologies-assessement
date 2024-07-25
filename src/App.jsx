@@ -1,7 +1,6 @@
-// src/App.js
 import React from "react";
 import { Provider } from "react-redux";
-import store from "./store/store"; // Ensure this path is correct
+import store from "./store/store";
 import Home from "./pages/Home";
 
 function App() {
